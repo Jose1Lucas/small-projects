@@ -35,4 +35,7 @@
     .projetos {
         padding: 30px;
     }
+    .projetos .projeto .informacoes-projeto {
+        font-size: 12px;
+    }
 }
