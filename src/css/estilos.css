@@ -193,9 +193,9 @@ body {
 
 .projetos .container-projetos .projeto:hover .informacoes-projeto {
     opacity: 0.7;
-    background-color: #525252;
-    padding-top: 15px;;
-
+     background-color: #3a2424;
+    padding-top: 20px;
+    border: 1px solid #fffab0;
 }
 
 .projetos .btn-mostrar-projetos {
