@@ -8,26 +8,10 @@ body {
     font-family: "Poppins", sans-serif;
     margin: 0 auto;
     max-width: 1120px;
-    background: linear-gradient(150deg, #000, #ff0000);
+    background-color: #000;
     display: flex;
     flex-direction: column;
     justify-content: center;
-    animation: Wave 5s ease infinite;
-    /* Aplica a animação */
-    background-size: 200% 200%;
-    /* Adiciona o tamanho do fundo */
-}
-
-@keyframes Wave {
-
-    0%,
-    100% {
-        background-position: 0% 50%;
-    }
-
-    50% {
-        background-position: 100% 50%;
-    }
 }
 
 .cabecalho {
